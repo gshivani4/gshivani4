@@ -1,44 +1,68 @@
 ## Hi 👋, I'm Gavini Shivani
-<h3 align="center"></h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gshivani4&label=Profile%20views&color=0e75b6&style=flat" alt="gshivani4" /> </p>
-
-- 📫 How to reach me: **gavinishivani02@gmail.com**
-
-### Summary:
-Enthusiastic and detail-oriented **Data Analyst** with a strong foundation in **SQL, Excel, and Data Visualization**. Recently graduated in **Information Technology** and transitioning into data analysis, with hands-on experience in **Power BI**, **Python**, and a focus on **e-commerce**. Passionate about leveraging data to drive informed business decisions, optimize processes, and deliver actionable insights.
-
-
-### Skills:
-**SQL**, **Microsoft Excel**, **Power BI**, **Python**, **Data Mining**, **RDBMS**, **Statistical Methods**, **Dashboards**, **EDA**, **ETL**, **Time Series Analysis**, **Web Development**, **Business Insights**
-
-### Certifications:
-1. **Data Science and Cloud Computing** – Jorex
-2. **Web Development** – Internshala
-3. **Sparkathon Hackathon** – Walmart
-
-### Extra-curricular:
-- **Sparkathon Hackathon (Walmart)**: Participated in Walmart’s data competition, focusing on enhancing **item availability** and **theft reduction**. Ideas related to **receipt scanning** are now in use by Zara.
+Welcome to my GitHub! I’m a results-driven Business Analyst and Data Analyst with hands-on experience in transforming raw data into strategic insights, building predictive models, and streamlining business processes. My work spans across data visualization, requirement analysis, process optimization, and dashboard development, enabling data-informed decisions across various domains.
 
 ---
 
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/gavini-shivani-b37a49223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gavini shivani" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-### Languages and Tools:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/></a>
-</p>
+### **Executive Softway Guild** (Client: MBSI.Corp)  
+*Business Analyst | Dec 2024 – Present*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gshivani4&show_icons=true&locale=en&layout=compact" alt="gshivani4" /></p>
+- Analyzed operational data and business requirements for Recovery Connect and iRepo platforms, resulting in a 25% improvement in task tracking accuracy.
+- Authored detailed BRDs, user stories, and acceptance criteria using **JIRA** and **Confluence**, reducing rework by 15%.
+- Partnered with product and technical teams to transition legacy processes to Recovery Connect, achieving a 20% increase in operational efficiency.
+- Created process flows, wireframes, and system documentation to visualize repossession workflows.
+- Performed gap and impact analysis to streamline feature rollouts, accelerating time-to-market by 10%.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gshivani4&" alt="gshivani4" /></p>
+### **Ai Varient**  
+*Data Analyst Intern 
 
+- Cleaned and transformed 50,000+ rows of raw data, improving data reliability by 30%.
+- Conducted EDA on 5+ business metrics, leading to a 15% gain in operational efficiency.
+- Integrated **MySQL** with **Excel**, **Power BI**, and **Tableau** to create 10+ dashboards, cutting manual reporting time by 40%.
+- Defined and tracked 8+ KPIs and supported data modeling for improved performance insights.
+- Delivered weekly reports to stakeholders, enhancing decision-making across departments.
+
+### **3Cortex**  
+*Data Analyst Intern 
+
+- Built predictive models for 1-week, 2-week, and 1-month transaction forecasts, enhancing planning accuracy.
+- Implemented a fraud detection system that flagged anomalies, mitigating financial risks and bolstering security.
+- Improved overall resource allocation through advanced analytical solutions.
+
+---
+
+## 🧠 Skills
+
+**Excel**: Pivot Tables, VLOOKUP, XLOOKUP, COUNTIF, SUMIF, Charts, Macros  
+**SQL**: Joins, CTEs, Window Functions, Aggregations, Subqueries  
+**Power BI**: Dashboards, Data Modeling, DAX, Report Automation  
+**Python**: Pandas, NumPy, Matplotlib, Seaborn, Functions, Loops  
+**Statistics**: Descriptive Stats, Outlier Detection, Probability, Inferential Stats  
+**Tableau**: Storyboards, Interactive Dashboards, Public Visualization  
+**Tools**: JIRA, Confluence, Git, Excel, MySQL, Power BI, Tableau
+
+---
+
+## 📜 Certifications
+
+**Google Data Analytics Professional Certificate**    
+- Executed SQL queries across **MySQL**, **Oracle**, and **SQL Server**.  
+- Created Tableau dashboards with millions of records, improving decision-making speed by 50%.
+
+---
+
+## 🏆 Achievements
+
+**Sparkathon by Walmart**  
+- Tackled customer issues around out-of-stock items and in-store theft.
+- Proposed a **kiosk system** for real-time stock and aisle information.
+- Designed a **receipt scanning system** to verify purchases at exits — a concept later adopted by Zara.
+
+---
+
+
+
+Thank you for visiting my profile!  
+Feel free to explore the repositories, and connect with me on [LinkedIn](https://www.linkedin.com/in/gavinishivani02/) for opportunities and collaborations.
