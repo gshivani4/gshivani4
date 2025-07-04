@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m a results-driven Business Analyst and Data Analyst w
 ## 💼 Experience
 
 ### **Executive Softway Guild** (Client: MBSI.Corp)  
-*Business Analyst | Dec 2024 – Present*
+*Business Analyst | Dec 2024 – May 2025*
 
 - Analyzed operational data and business requirements for Recovery Connect and iRepo platforms, resulting in a 25% improvement in task tracking accuracy.
 - Authored detailed BRDs, user stories, and acceptance criteria using **JIRA** and **Confluence**, reducing rework by 15%.
