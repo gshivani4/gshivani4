@@ -1,68 +1,51 @@
-## Hi 👋, I'm Gavini Shivani
-
-Welcome to my GitHub! I’m a results-driven Business Analyst and Data Analyst with hands-on experience in transforming raw data into strategic insights, building predictive models, and streamlining business processes. My work spans across data visualization, requirement analysis, process optimization, and dashboard development, enabling data-informed decisions across various domains.
-
----
-
-## 💼 Experience
-
-### **Executive Softway Guild** (Client: MBSI.Corp)  
-*Business Analyst | Dec 2024 – May 2025*
-
-- Analyzed operational data and business requirements for Recovery Connect and iRepo platforms, resulting in a 25% improvement in task tracking accuracy.
-- Authored detailed BRDs, user stories, and acceptance criteria using **JIRA** and **Confluence**, reducing rework by 15%.
-- Partnered with product and technical teams to transition legacy processes to Recovery Connect, achieving a 20% increase in operational efficiency.
-- Created process flows, wireframes, and system documentation to visualize repossession workflows.
-- Performed gap and impact analysis to streamline feature rollouts, accelerating time-to-market by 10%.
-
-### **Ai Varient**  
-*Data Analyst Intern 
-
-- Cleaned and transformed 50,000+ rows of raw data, improving data reliability by 30%.
-- Conducted EDA on 5+ business metrics, leading to a 15% gain in operational efficiency.
-- Integrated **MySQL** with **Excel**, **Power BI**, and **Tableau** to create 10+ dashboards, cutting manual reporting time by 40%.
-- Defined and tracked 8+ KPIs and supported data modeling for improved performance insights.
-- Delivered weekly reports to stakeholders, enhancing decision-making across departments.
-
-### **3Cortex**  
-*Data Analyst Intern 
-
-- Built predictive models for 1-week, 2-week, and 1-month transaction forecasts, enhancing planning accuracy.
-- Implemented a fraud detection system that flagged anomalies, mitigating financial risks and bolstering security.
-- Improved overall resource allocation through advanced analytical solutions.
+# Hi 👋, I'm Gavini Shivani
+### **Technical Business Analyst | Data Analyst** I am a results-driven analyst specializing in bridging the gap between business strategy and technical execution. My expertise lies in transforming raw data into **$1M+ revenue opportunities**, building **predictive risk models**, and architecting **Agile workflows** for safety-critical systems.
 
 ---
 
-## 🧠 Skills
-
-**Excel**: Pivot Tables, VLOOKUP, XLOOKUP, COUNTIF, SUMIF, Charts, Macros  
-**SQL**: Joins, CTEs, Window Functions, Aggregations, Subqueries  
-**Power BI**: Dashboards, Data Modeling, DAX, Report Automation  
-**Python**: Pandas, NumPy, Matplotlib, Seaborn, Functions, Loops  
-**Statistics**: Descriptive Stats, Outlier Detection, Probability, Inferential Stats  
-**Tableau**: Storyboards, Interactive Dashboards, Public Visualization  
-**Tools**: JIRA, Confluence, Git, Excel, MySQL, Power BI, Tableau
+### 🚀 Strategic Highlights
+* 📊 **Revenue Growth:** Identified a **$1.42M annual revenue opportunity** through mobile conversion gap analysis.
+* 🛡️ **Risk Mitigation:** Engineered a **Delivery Risk Framework** flagging 15% of high-risk orders for proactive logistics.
+* 🏗️ **Product Strategy:** Spearheaded the elicitation and UAT for **Mass Hold** & **Violent Borrower** safety features.
 
 ---
 
-## 📜 Certifications
+### 🛠️ Tech Stack & Skills
 
-**Google Data Analytics Professional Certificate**    
-- Executed SQL queries across **MySQL**, **Oracle**, and **SQL Server**.  
-- Created Tableau dashboards with millions of records, improving decision-making speed by 50%.
+![SQL](https://img.shields.io/badge/SQL-MySQL%20|%20Postgres-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20|%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Agile%20|%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-Postman%20|%20Swagger-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visualization](https://img.shields.io/badge/BI-PowerBI%20|%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 🏆 Achievements
-
-**Sparkathon by Walmart**  
-- Tackled customer issues around out-of-stock items and in-store theft.
-- Proposed a **kiosk system** for real-time stock and aisle information.
-- Designed a **receipt scanning system** to verify purchases at exits — a concept later adopted by Zara.
+* **BA Domains:** Requirements Engineering (BRD/FRD), User Stories, Acceptance Criteria, Backlog Grooming, Gap Analysis.
+* **DA Analytics:** Exploratory Data Analysis (EDA), Predictive Modeling (Random Forest), ETL Pipelines, KPI Tracking.
 
 ---
 
+### 💼 Professional Experience
 
+#### **Business Analyst | Executive Software Guild (Client: MBSI.Corp)** *Dec 2024 – May 2025*
+* **Mission-Critical Delivery:** Led 4 cross-functional teams to implement **Agent Safety** and **Crisis Management** features, reducing critical defects by 30%.
+* **Technical Validation:** Leveraged **SQL & Postman** for backend UAT, ensuring 100% data integrity for repossession workflows.
+* **Agile Leadership:** Managed product backlogs in Jira/Confluence, reducing developer rework by 15% through high-clarity user stories.
 
-Thank you for visiting my profile!  
-Feel free to explore the repositories, and connect with me on [LinkedIn](https://www.linkedin.com/in/gavinishivani02/) for opportunities and collaborations.
+#### **Data Analyst Intern | Ai Variant** *May 2024 – Nov 2024*
+* **Dashboard Engineering:** Built 9+ interactive dashboards cutting manual reporting time by 40% using Power BI and SQL.
+* **Data Integrity:** Performed end-to-end ETL on 50k+ rows, improving forecasting reliability by 30%.
+
+#### **Data Analyst Intern | 3Cortex**
+* **Predictive Systems:** Developed transaction forecasting models and fraud detection systems, narrowing financial risk windows.
+
+---
+
+### 🏆 Achievements & Innovations
+
+* **Sparkathon by Walmart:** Proposed an AI-driven **Kiosk & Receipt Scanning System** for real-time inventory and theft prevention.
+* **$1.5M Mobile Strategy:** Designed the data framework that secured executive approval for a major mobile-web optimization program.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavinishivani02/) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:gavini.shivani25@gmail.com)
